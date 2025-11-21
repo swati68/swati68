@@ -69,68 +69,23 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 
 <div align="center">
 
-<!-- Card 1 -->
-<table width="48%" align="center">
-<tr><td>
-
-<strong>⚡ GPU-Accelerated Linear Solver</strong>  
-<div style="font-size: 14px;">CUDA-based high-performance linear solver optimized for parallel GPU computation.</div>
-
-<br>
 <a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
-  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=GPUAccelerated-LinearSolver&theme=tokyonight&border_radius=12" />
 </a>
 
-</td></tr>
-</table>
-
-<!-- Card 2 -->
-<table width="48%" align="center">
-<tr><td>
-
-<strong>🧠 Twitter Sentiment Analysis (NLP)</strong>  
-<div style="font-size: 14px;">End-to-end NLP pipeline with preprocessing, tokenization, vectorization, and ML models.</div>
-
-<br>
 <a href="https://github.com/swati68/SentimentAnalysis-Twitter-NLP">
-  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=SentimentAnalysis-Twitter-NLP&theme=tokyonight&border_radius=12" />
 </a>
 
-</td></tr>
-</table>
-
-<!-- Card 3 -->
-<table width="48%" align="center">
-<tr><td>
-
-<strong>🎨 Fuzzy Logic Image Retrieval System</strong>  
-<div style="font-size: 14px;">CBIR approach using fuzzy logic and histogram-based visual similarity measures.</div>
-
-<br>
 <a href="https://github.com/swati68/FuzzyLogic-ImageRetrieval-System">
-  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=FuzzyLogic-ImageRetrieval-System&theme=tokyonight&border_radius=12" />
 </a>
 
-</td></tr>
-</table>
-
-<!-- Card 4 -->
-<table width="48%" align="center">
-<tr><td>
-
-<strong>❤️ Parallel Genetic Heart Disease Model</strong>  
-<div style="font-size: 14px;">Hybrid Decision Tree + GA classifier with OpenMP/MPI parallelization for fast training.</div>
-
-<br>
 <a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
-  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=ParallelGenetic-HeartDisease-Model&theme=tokyonight&border_radius=12" />
 </a>
-
-</td></tr>
-</table>
 
 </div>
-
 ---
 
 ## 🔬 **Projects I'm Currently Working On**
