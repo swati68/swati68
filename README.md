@@ -31,13 +31,25 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 ![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/C++-004283?logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
+![R](https://img.shields.io/badge/R-276DC3?logo=r)
+![Matlab](https://img.shields.io/badge/Matlab-ffbd00?logo=mathworks)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### **Frameworks & Libraries**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
+![SpringMVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring)
+![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4065A8?logo=python)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python)
 
 ### **Technologies**
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-black)
@@ -45,6 +57,11 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 ![REST APIs](https://img.shields.io/badge/REST-02569B?logo=openapiinitiative)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure)
 ![HPC](https://img.shields.io/badge/High_Performance_Computing-red)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions)
+![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops)
+![Agile](https://img.shields.io/badge/Agile_(Scrum%2FKanban)-2496ED)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)
 
 ---
 
@@ -53,24 +70,64 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 <div align="center">
 
 <!-- Card 1 -->
+<table width="48%" align="center">
+<tr><td>
+
+<strong>⚡ GPU-Accelerated Linear Solver</strong>  
+<div style="font-size: 14px;">CUDA-based high-performance linear solver optimized for parallel GPU computation.</div>
+
+<br>
 <a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=GPUAccelerated-LinearSolver&theme=graywhite&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td></tr>
+</table>
 
 <!-- Card 2 -->
+<table width="48%" align="center">
+<tr><td>
+
+<strong>🧠 Twitter Sentiment Analysis (NLP)</strong>  
+<div style="font-size: 14px;">End-to-end NLP pipeline with preprocessing, tokenization, vectorization, and ML models.</div>
+
+<br>
 <a href="https://github.com/swati68/SentimentAnalysis-Twitter-NLP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=SentimentAnalysis-Twitter-NLP&theme=graywhite&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td></tr>
+</table>
 
 <!-- Card 3 -->
+<table width="48%" align="center">
+<tr><td>
+
+<strong>🎨 Fuzzy Logic Image Retrieval System</strong>  
+<div style="font-size: 14px;">CBIR approach using fuzzy logic and histogram-based visual similarity measures.</div>
+
+<br>
 <a href="https://github.com/swati68/FuzzyLogic-ImageRetrieval-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=FuzzyLogic-ImageRetrieval-System&theme=graywhite&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</td></tr>
+</table>
+
 <!-- Card 4 -->
+<table width="48%" align="center">
+<tr><td>
+
+<strong>❤️ Parallel Genetic Heart Disease Model</strong>  
+<div style="font-size: 14px;">Hybrid Decision Tree + GA classifier with OpenMP/MPI parallelization for fast training.</div>
+
+<br>
 <a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=ParallelGenetic-HeartDisease-Model&theme=graywhite&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Project-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td></tr>
+</table>
 
 </div>
 
