@@ -50,27 +50,45 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 
 ## 📌 **Featured Projects**
 
-### 🚀 **GPU-Accelerated Linear Solver**  
-High-performance CUDA implementation for solving linear systems using GPU parallelism.  
-🔗 **Repo:** https://github.com/swati68/GPUAccelerated-LinearSolver
+<div align="center">
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚡ GPU-Accelerated Linear Solver</h3>
+      <p>High-performance CUDA implementation for solving linear systems using GPU parallelism.</p>
+      <a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
+        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧠 Twitter Sentiment Analysis (NLP)</h3>
+      <p>End-to-end NLP pipeline with preprocessing, tokenization, embeddings, and ML baselines.</p>
+      <a href="https://github.com/swati68/SentimentAnalysis-Twitter-NLP">
+        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
 
-### 🧠 **Twitter Sentiment Analysis (NLP)**  
-Complete NLP pipeline with preprocessing, tokenization, embeddings & ML classifiers.  
-🔗 **Repo:** https://github.com/swati68/SentimentAnalysis-Twitter-NLP
+  <tr>
+    <td width="50%">
+      <h3>🎨 Fuzzy Logic Image Retrieval</h3>
+      <p>CBIR system using fuzzy similarity & histogram analysis for perceptual image retrieval.</p>
+      <a href="https://github.com/swati68/FuzzyLogic-ImageRetrieval-System">
+        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>❤️ Parallel Genetic Heart Disease Model</h3>
+      <p>Hybrid GA + Decision Tree model with OpenMP/MPI-based parallelization.</p>
+      <a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
+        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🎨 **Fuzzy Logic Image Retrieval System**  
-CBIR system using fuzzy similarity + histogram analysis for image search.  
-🔗 **Repo:** https://github.com/swati68/FuzzyLogic-ImageRetrieval-System
-
----
-
-### ❤️ **Parallel Genetic Heart Disease Model**  
-Hybrid GA + Decision Tree model with OpenMP/MPI-based parallelization for HPC speed-ups.  
-🔗 **Repo:** https://github.com/swati68/ParallelGenetic-HeartDisease-Model
+</div>
 
 ---
 
