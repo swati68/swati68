@@ -52,41 +52,25 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⚡ GPU-Accelerated Linear Solver</h3>
-      <p>High-performance CUDA implementation for solving linear systems using GPU parallelism.</p>
-      <a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
-        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🧠 Twitter Sentiment Analysis (NLP)</h3>
-      <p>End-to-end NLP pipeline with preprocessing, tokenization, embeddings, and ML baselines.</p>
-      <a href="https://github.com/swati68/SentimentAnalysis-Twitter-NLP">
-        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
+<!-- Card 1 -->
+<a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=GPUAccelerated-LinearSolver&theme=graywhite&hide_border=true" />
+</a>
 
-  <tr>
-    <td width="50%">
-      <h3>🎨 Fuzzy Logic Image Retrieval</h3>
-      <p>CBIR system using fuzzy similarity & histogram analysis for perceptual image retrieval.</p>
-      <a href="https://github.com/swati68/FuzzyLogic-ImageRetrieval-System">
-        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>❤️ Parallel Genetic Heart Disease Model</h3>
-      <p>Hybrid GA + Decision Tree model with OpenMP/MPI-based parallelization.</p>
-      <a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
-        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Card 2 -->
+<a href="https://github.com/swati68/SentimentAnalysis-Twitter-NLP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=SentimentAnalysis-Twitter-NLP&theme=graywhite&hide_border=true" />
+</a>
+
+<!-- Card 3 -->
+<a href="https://github.com/swati68/FuzzyLogic-ImageRetrieval-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=FuzzyLogic-ImageRetrieval-System&theme=graywhite&hide_border=true" />
+</a>
+
+<!-- Card 4 -->
+<a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=ParallelGenetic-HeartDisease-Model&theme=graywhite&hide_border=true" />
+</a>
 
 </div>
 
