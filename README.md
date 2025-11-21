@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Swati Singh 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=900&color=444444&center=true&vCenter=true&width=900&lines=Swati+Singh;MS+Computer+Science+%40+NYU+Tandon;Software+Engineer+%7C+Machine+Learning+%7C+HPC;Building+Systems+That+Scale+%26+Models+That+Learn" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3000&pause=900&color=00897B&center=true&vCenter=true&width=900&lines=Swati+Singh;MS+Computer+Science+%40+NYU+Tandon;Software+Engineer+%7C+Machine+Learning+%7C+HPC;Building+Systems+That+Scale+%26+Models+That+Learn" alt="Typing Animation" />
 </p>
 
 ---
