@@ -1,16 +1,108 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Swati Singh 👋</h1>
 
-<!--
-**swati68/swati68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+MSCS+@+NYU+Tandon;Machine+Learning+%7C+HPC+%7C+Distributed+Systems;Always+Building+%7C+Always+Learning+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧍‍♀️ **About Me**
+
+I’m **Swati Singh**, a graduate student pursuing an **MS in Computer Science at NYU Tandon School of Engineering**. Prior to graduate school, I worked as a Senior Software Engineer at **Bajaj Finserv Pvt. Ltd.** for over 2.5 years, contributing to backend engineering, enterprise microservices, large-scale schedulers, and high-performance API systems powering millions of transactions.
+
+My interests lie in **machine learning**, **distributed systems**, **parallel/high-performance computing**, and **data-driven system understanding**. I enjoy building clean, reliable, and scalable solutions — whether that’s GPU-accelerated algorithms, ML pipelines, or optimized backend architectures.
+
+Currently at NYU, I’m expanding my depth in ML/DL, system design, and experimental data science. I thrive on structured work, technical depth, and solving problems that blend mathematical insight with real-world engineering.
+
+---
+
+## 💼 **Experience**
+
+- 🏢 **Bajaj Finserv — Senior Software Engineer**  
+- 🏢 **Bajaj Finserv — Software Engineer**  
+- 🏢 **Cerebro Academy — Web Development Intern**
+
+---
+
+## 🧰 **Tech Stack**
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C](https://img.shields.io/badge/C-00599C?logo=c)
+![C++](https://img.shields.io/badge/C++-004283?logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
+
+### **Frameworks & Libraries**
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+
+### **Technologies**
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-black)
+![Microservices](https://img.shields.io/badge/Microservices-000000?logo=docker)
+![REST APIs](https://img.shields.io/badge/REST-02569B?logo=openapiinitiative)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure)
+![HPC](https://img.shields.io/badge/High_Performance_Computing-red)
+
+---
+
+## 📌 **Featured Projects**
+
+### 🚀 **GPU-Accelerated Linear Solver**  
+High-performance CUDA implementation for solving linear systems using GPU parallelism.  
+🔗 **Repo:** https://github.com/swati68/GPUAccelerated-LinearSolver
+
+---
+
+### 🧠 **Twitter Sentiment Analysis (NLP)**  
+Complete NLP pipeline with preprocessing, tokenization, embeddings & ML classifiers.  
+🔗 **Repo:** https://github.com/swati68/SentimentAnalysis-Twitter-NLP
+
+---
+
+### 🎨 **Fuzzy Logic Image Retrieval System**  
+CBIR system using fuzzy similarity + histogram analysis for image search.  
+🔗 **Repo:** https://github.com/swati68/FuzzyLogic-ImageRetrieval-System
+
+---
+
+### ❤️ **Parallel Genetic Heart Disease Model**  
+Hybrid GA + Decision Tree model with OpenMP/MPI-based parallelization for HPC speed-ups.  
+🔗 **Repo:** https://github.com/swati68/ParallelGenetic-HeartDisease-Model
+
+---
+
+## 🔬 **Projects I'm Currently Working On**
+
+### 🎧 UrbanSound8K — Audio Classification  
+- MFCC extraction  
+- 1D CNN + MLP models  
+- Dataset balancing, augmentation, evaluation  
+
+### 💷 “Charm Pricing” Causal Analysis  
+- Studying whether prices like **x.95** or **x.75** boost sales after correcting for product popularity.  
+- Using regression, causal inference, posterior exploration.
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swati68&show_icons=true&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swati68&layout=compact&theme=default"/>
+</p>
+
+---
+
+## 📫 **Connect With Me**
+
+- ✉️ **Email:** ss20478@nyu.edu  
+- 🔗 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/swati-6-singh/)  
+- 💻 **GitHub:** https://github.com/swati68  
+
+---
+
+<p align="center">✨ Always exploring. Always building. ✨</p>
