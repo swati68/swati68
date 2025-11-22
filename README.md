@@ -70,19 +70,19 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 <div align="center">
 
 <a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=GPUAccelerated-LinearSolver&theme=default&border_radius=12&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=GPUAccelerated-LinearSolver&theme=dark&border_radius=12&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/swati68/SentimentAnalysis-Twitter-NLP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=SentimentAnalysis-Twitter-NLP&theme=default&border_radius=12&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=SentimentAnalysis-Twitter-NLP&theme=dark&border_radius=12&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/swati68/FuzzyLogic-ImageRetrieval-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=FuzzyLogic-ImageRetrieval-System&theme=default&border_radius=12&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=FuzzyLogic-ImageRetrieval-System&theme=dark&border_radius=12&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=ParallelGenetic-HeartDisease-Model&theme=default&border_radius=12&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=ParallelGenetic-HeartDisease-Model&theme=dark&border_radius=12&cache_seconds=1" />
 </a>
 
 </div>
