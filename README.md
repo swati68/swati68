@@ -64,11 +64,11 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)
 
 ---
-
+<!--
 ## 📌 **Featured Projects**
 
 <div align="center">
-
+-->
 <!--a href="https://github.com/swati68/GPUAccelerated-LinearSolver">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=GPUAccelerated-LinearSolver&theme=dark&border_radius=12&cache_seconds=1" />
 </a>
@@ -83,7 +83,7 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 
 <a href="https://github.com/swati68/ParallelGenetic-HeartDisease-Model">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=ParallelGenetic-HeartDisease-Model&theme=dark&border_radius=12&cache_seconds=1" />
-</a-->
+</a>
 [![GPU-Accelerated Linear Solver](https://github-readme-streak-stats.herokuapp.com/?user=swati68&theme=dark&hide_border=true)](https://github.com/swati68/GPUAccelerated-LinearSolver)
 [![SentimentAnalysis Twitter NLP](https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=SentimentAnalysis-Twitter-NLP&theme=dark&border_radius=12)](https://github.com/swati68/SentimentAnalysis-Twitter-NLP)
 [![FuzzyLogic Image Retrieval](https://github-readme-stats.vercel.app/api/pin/?username=swati68&repo=FuzzyLogic-ImageRetrieval-System&theme=dark&border_radius=12)](https://github.com/swati68/FuzzyLogic-ImageRetrieval-System)
@@ -91,6 +91,7 @@ Currently at NYU, I’m expanding my depth in ML/DL, system design, and experime
 </div>
 
 ---
+-->
 
 ## 🔬 **Projects I'm Currently Working On**
 
